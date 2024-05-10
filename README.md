@@ -1,9 +1,7 @@
 # DataBase-Ponderada
-Aqui está um documento explicativo com base na nova imagem:
-
 ---
 
-**Modelo Relacional para Aplicação Web de Marketplace de Voluntariado**
+**Modelo Relacional para Aplicação Web de Plataforma de Voluntariado**
 
 **1. Descrição Geral**
 
@@ -85,4 +83,3 @@ O modelo relacional permite conectar voluntários e organizações, oferecendo u
 
 --- 
 
-Espero que este texto atenda à sua solicitação!
