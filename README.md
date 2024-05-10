@@ -1,5 +1,4 @@
 # DataBase-Ponderada
----
 
 **Modelo Relacional para Aplicação Web de Plataforma de Voluntariado**
 
