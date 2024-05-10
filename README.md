@@ -73,7 +73,7 @@ Este diagrama representa o modelo relacional de um banco de dados, que faz parte
 - **Users e OSC's**: Um usuário pode estar associado a uma organização como responsável.
 - **Users e Opportunities**: Um usuário pode criar oportunidades e associá-las à organização ou empresa.
 - **OSC's e Opportunities**: Uma organização pode abrir várias oportunidades de voluntariado.
-- **Opportunities e Registration_Opportunities**: Uma oportunidade pode ter múltiplas inscrições de voluntários.
+- **Opportunities e Registration_Opportunities**: Uma oportunidade pode ter múltiplas inscrições de voluntários mas cada inscrição se associa a uma oportunidade.
 - **Users e Posts**: Os usuários podem criar posts na comunidade.
 
 **4. Utilização**
